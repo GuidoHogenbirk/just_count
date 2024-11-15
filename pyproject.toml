@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{ include = "just_count", from = "src" }]
 
 [tool.poetry.dependencies]
-python = "3.12.7"
+python = "^3.12"
 square = "^0.0.3"
 
 
